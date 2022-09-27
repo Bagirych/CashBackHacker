@@ -1,4 +1,4 @@
-import static org.junit.jupiter.api.Assertions.*;
-class CashbackHackServiceTest {
+import static org.junit.Assert.*;
+public class CashbackHackServiceTest {
   
 }
